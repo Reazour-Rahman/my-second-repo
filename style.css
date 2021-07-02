@@ -1,0 +1,12 @@
+p {
+    background-color: chartreuse;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+h3 {
+    background-color: crimson;
+    border: 3px;
+    margin: 50px;
+    padding: 30px;
+}
